@@ -1,4 +1,4 @@
-# Text Classification Project
+# Klasifiakasi Teks menggunakan FastText
 
 ## Deskripsi
 Proyek ini bertujuan untuk mengklasifikasikan teks berdasarkan apakah teks tersebut mengindikasikan depresi atau tidak. Menggunakan dataset yang berisi teks yang telah dibersihkan dan label yang menunjukkan apakah teks tersebut terkait dengan depresi, model ini dilatih menggunakan algoritma FastText untuk melakukan klasifikasi.
